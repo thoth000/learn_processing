@@ -1,10 +1,8 @@
-# Processingとは
-電子アートとビジュアルデザインのためのプログラミング言語です。
-Javaを単純化し、グラフィック機能に特化しています。
+## Processing🎨
+Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+https://processing.org/
 
-processingを学んでいくうえで作ってきた作品を一覧にしてあります。
-
-# 作品
+## Works
 <img src="./week2/packman.png">
 <img src="./week3/image.png">
 <img src="./week4/img.png">
