@@ -3,7 +3,4 @@
 https://processing.org/
 
 ## Works
-<img src="./week2/packman.png">
-<img src="./week3/image.png">
-<img src="./week4/img.png">
-<img src="./work1/img_05941.png">
+<img src="./week2/packman.png"> <img src="./week3/image.png"> <img src="./week4/img.png"> <img src="./work1/img_05941.png">
